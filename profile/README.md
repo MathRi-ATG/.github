@@ -18,10 +18,10 @@ Use this repository to get a high-level overview of the entire project before ex
 
 The numerical techniques used across the project include:
 
-- 🔹 **Physics-Informed Neural Networks (PINN)**
-- 🔹 **Spectral Method**
-- 🔹 **Crank-Nicholson Finite Difference**
-- 🔹 **Finite Element Method**
+- 🔹 **[Physics-Informed Neural Networks (PINN)](https://github.com/MathRi-ATG/Physics-Informed-Neural-Network)**
+- 🔹 **[Pseudo Spectral Method](https://github.com/MathRi-ATG/Pseudo-Spectral-Method)**
+- 🔹 **[Crank-Nicholson](https://github.com/MathRi-ATG/Crank-Nicholson)**
+- 🔹 **[Finite Element Method](https://github.com/MathRi-ATG/Finite-Element-Method)**
 
 ---
 
