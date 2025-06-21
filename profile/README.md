@@ -22,6 +22,7 @@ The numerical techniques used across the project include:
 - 🔹 **[Pseudo Spectral Method](https://github.com/MathRi-ATG/Pseudo-Spectral-Method)**
 - 🔹 **[Crank-Nicholson](https://github.com/MathRi-ATG/Crank-Nicholson)**
 - 🔹 **[Finite Element Method](https://github.com/MathRi-ATG/Finite-Element-Method)**
+- 🔹 **[Presentation + All codes](https://github.com/MathRi-ATG/.github)**
 
 ---
 
